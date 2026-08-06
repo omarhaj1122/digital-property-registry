@@ -1,3 +1,7 @@
+
+![CI Pipeline](https://github.com/omarhaj1122/digital-property-registry/actions/workflows/ci.yml/badge.svg)
+
+
 ## 🗄️ Domain Repository Interfaces
 - `IUserRepository`: Contract for user operations (lookup by ID, Email, National ID).
 - `IPropertyRepository`: Contract for property operations and GIS parcel lookups.
